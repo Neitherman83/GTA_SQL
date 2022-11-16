@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T13:24:19.527Z" agent="5.0 (X11)" etag="GoG5YbInTQxcmOYNhDK6" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-16T13:31:58.559Z" agent="5.0 (X11)" etag="HnQQ7er5LzP4dTLiAg3P" version="20.5.3" type="github" pages="3">
   <diagram id="il-SnUNJx3NYr_TmzlD_" name="Personage/Inventaire">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -917,8 +917,8 @@
         <mxCell id="XCfoesIi_5a2MWhkToOd-102" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="XCfoesIi_5a2MWhkToOd-99" target="XCfoesIi_5a2MWhkToOd-16">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="1930" y="960" />
-              <mxPoint x="1930" y="870" />
+              <mxPoint x="2220" y="960" />
+              <mxPoint x="2220" y="870" />
             </Array>
           </mxGeometry>
         </mxCell>
