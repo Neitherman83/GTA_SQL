@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-16T13:52:33.855Z" agent="5.0 (X11)" etag="y6KGHrUp8tmTvjAs2NzG" version="20.5.3" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2022-11-16T13:53:08.643Z" agent="5.0 (X11)" etag="3apXa8Nf9eEb2IGl9myt" version="20.5.3" type="github" pages="3">
   <diagram id="il-SnUNJx3NYr_TmzlD_" name="Personage/Inventaire">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -699,7 +699,7 @@
           <mxGeometry x="2240" y="1040" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XCfoesIi_5a2MWhkToOd-28" value="&lt;div align=&quot;left&quot;&gt;*NomArme&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;TypeArme&lt;/div&gt;&lt;div&gt;CapacitéMunition&lt;/div&gt;&lt;div&gt;TypeMunition&lt;/div&gt;&lt;div&gt;Prix&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2405" y="625" width="120" height="90" as="geometry" />
+          <mxGeometry x="2405" y="620" width="120" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XCfoesIi_5a2MWhkToOd-29" value="&lt;div align=&quot;left&quot;&gt;#NomArme&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;#Nom&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Quantité&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2190" y="735" width="80" height="60" as="geometry" />
@@ -735,7 +735,7 @@
           <mxGeometry x="2405" y="1065" width="100" height="90" as="geometry" />
         </mxCell>
         <mxCell id="XCfoesIi_5a2MWhkToOd-37" value="&lt;div align=&quot;left&quot;&gt;#NomVéhicule&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;#NomPropriété&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Nombre&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="970" width="100" height="60" as="geometry" />
+          <mxGeometry x="2380" y="960" width="100" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XCfoesIi_5a2MWhkToOd-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=classic;startFill=1;" edge="1" parent="1" source="XCfoesIi_5a2MWhkToOd-39" target="XCfoesIi_5a2MWhkToOd-32">
           <mxGeometry relative="1" as="geometry" />
@@ -904,9 +904,6 @@
         </mxCell>
         <mxCell id="XCfoesIi_5a2MWhkToOd-77" value="&lt;div align=&quot;left&quot;&gt;#NomPropriété&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;#Nom&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="2175" y="1090" width="100" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="XCfoesIi_5a2MWhkToOd-78" value="&lt;div align=&quot;left&quot;&gt;#NomVéhicule&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;#Nom&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="2390" y="745" width="100" height="40" as="geometry" />
         </mxCell>
         <mxCell id="XCfoesIi_5a2MWhkToOd-79" value="&lt;div align=&quot;left&quot;&gt;*NomMagasinV&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;#Adresse&lt;br&gt;&lt;/div&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="2770" y="1430" width="130" height="50" as="geometry" />
