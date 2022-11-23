@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-11-23T12:28:35.048Z" agent="5.0 (X11)" etag="Zr4NhnnnCKT0KFlKJRUy" version="20.6.0" type="github" pages="4">
+<mxfile host="app.diagrams.net" modified="2022-11-23T12:59:11.646Z" agent="5.0 (X11)" etag="odJ7Eg251DeH-h44MUyN" version="20.6.0" type="github" pages="4">
   <diagram id="il-SnUNJx3NYr_TmzlD_" name="Personage/Inventaire">
     <mxGraphModel dx="1422" dy="772" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
@@ -1043,7 +1043,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="NqoWE4PzZF1ps3yiPbSr" name="Page-4">
-    <mxGraphModel dx="2031" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
+    <mxGraphModel dx="1306" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="4681" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1107,8 +1107,8 @@
         <mxCell id="uITr2tZDNDOv7EcSb8lm-17" value="&lt;div&gt;*typeM&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1490" y="995" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uITr2tZDNDOv7EcSb8lm-18" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;#nom&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;#nomM&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Argent&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;XP&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Health&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1785" y="610" width="60" height="90" as="geometry" />
+        <mxCell id="uITr2tZDNDOv7EcSb8lm-18" value="&lt;div align=&quot;left&quot;&gt;&lt;u&gt;#nom&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;u&gt;#nomM&lt;/u&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Argent&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;XP&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Health&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;Notoriété&lt;br&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1785" y="605" width="70" height="100" as="geometry" />
         </mxCell>
         <mxCell id="uITr2tZDNDOv7EcSb8lm-19" value="1,1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="1580" y="750" width="40" height="30" as="geometry" />
